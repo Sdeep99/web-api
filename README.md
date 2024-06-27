@@ -58,7 +58,7 @@ The system includes controllers for user management, member management, libraria
 Dependency Injection is employed for better code organization, and logging is implemented to track application events.
 
 ## Database Design: 
-<img src="https://github.com/...png"/>
+<img src="https://github.com/Sdeep99/web-api/blob/main/classdiagram.png"/>
 
 ## How to Run
 1. Install Microsoft Visual Studio Code, Postman, and .NET Core SDK.
