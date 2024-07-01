@@ -7,7 +7,5 @@ namespace Web.Models
         public string? Name { get; set; }
         
         public string? PhoneNumber { get; set; }
-
-        public List<Book> Books { get; set; } = new List<Book>();
     }
 }
